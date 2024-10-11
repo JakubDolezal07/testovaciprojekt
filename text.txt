@@ -1,3 +1,7 @@
 - treti radek :)
 - toto není test
 - lorem ipsum edit
+
+
+
+- toto je změna, ktará proběhla na nové větvi
